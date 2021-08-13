@@ -73,8 +73,8 @@ extrair informações úteis. O notebook do maps está em anexo no reporitório 
 [Kejisen - Tech Forest](https://www.kejisen.com/pt/article/113141201.html)         
 [Matplotlib](https://matplotlib.org/stable/contents.html)
 [Pandas.pydata.org - json_normalize](https://pandas.pydata.org/pandas-docs/version/0.21/generated/pandas.io.json.json_normalize.html)         
-[Seaborn Documentation](https://seaborn.pydata.org/)
-[Storytelling with Data](https://www.storytellingwithdata.com/books)          
+[Seaborn Documentation](https://seaborn.pydata.org/)         
+[Storytelling with Data](https://www.storytellingwithdata.com/books)               
 [Tutorial flatten nested json in pandas](https://www.kaggle.com/jboysen/quick-tutorial-flatten-nested-json-in-pandas)         
 
 
