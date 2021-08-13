@@ -2,8 +2,7 @@
 
 ## Objetivo:
 
-O desafio foi montar um case através de uma experiência Data Driven com os meus dados pessoais em aplicativos de uso diário      
-para apresentar um pouco da minha personalidade.
+O desafio foi montar um case através de uma experiência Data Driven com os meus dados pessoais em aplicativos de uso diário.
 
 ---
 
@@ -38,9 +37,11 @@ extrair informações úteis. O notebook do maps está em anexo no reporitório 
 
 ---
 
-## Visualização dos Dados:
+## Resultados:
 
-Para acessar os painéis com maior detalhamento e interatividade acesse o meu perfil no [Tableau Public](https://public.tableau.com/app/profile/michelle.lira) e      o [case](https://public.tableau.com/views/case_iFood/data_reporting?:language=en-US&:display_count=n&:origin=viz_share_link).
+* Para acessar a análise exploratória dos dados [clique aqui](https://github.com/michelle-lira/data-reporting-iFood/tree/main/notebooks).
+
+* Para acessar os painéis com maior detalhamento e interatividade acesse o meu perfil no [Tableau Public](https://public.tableau.com/app/profile/michelle.lira) e      o [case](https://public.tableau.com/views/case_iFood/data_reporting?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ![](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-1.png)
 
