@@ -2,8 +2,7 @@
 
 ## Objetivo:
 
-O desafio foi montar um case através de uma experiência Data Driven com os meus dados pessoais em aplicativos de uso diário      
-para apresentar um pouco da minha personalidade.
+O desafio foi montar um case através de uma experiência Data Driven com os meus dados pessoais em aplicativos de uso diário.
 
 ---
 
@@ -38,9 +37,11 @@ extrair informações úteis. O notebook do maps está em anexo no reporitório 
 
 ---
 
-## Visualização dos Dados:
+## Resultados:
 
-Para acessar os painéis com maior detalhamento e interatividade acesse o meu perfil no ![Tableau Public](https://public.tableau.com/views/case_iFood/data_reporting?:language=en-US&:display_count=n&:origin=viz_share_link).
+* Para acessar a análise exploratória dos dados [clique aqui](https://github.com/michelle-lira/data-reporting-iFood/tree/main/notebooks).
+
+* Para acessar os painéis com maior detalhamento e interatividade acesse o meu perfil no [Tableau Public](https://public.tableau.com/app/profile/michelle.lira) e      o [case](https://public.tableau.com/views/case_iFood/data_reporting?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ![](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-1.png)
 
@@ -64,17 +65,17 @@ Para acessar os painéis com maior detalhamento e interatividade acesse o meu pe
 
 ## Referências:
 
-![Alura | Formação Python para Data Science](https://www.alura.com.br/formacao-python-data-science)     
-![A Practical Guide for Data Analysis with Pandas](https://towardsdatascience.com/a-practical-guide-for-data-analysis-with-pandas-e24e467195a9)      
-![Converting nested json structures to pandas dataframes](https://medium.com/swlh/converting-nested-json-structures-to-pandas-dataframes-e8106c59976e)       
-![Geopandas](https://geopandas.org/)
-![Insightlab](https://insightlab.ufc.br/6-truques-do-pandas-para-impulsionar-sua-analise-de-dados/)           
-![Kejisen - Tech Forest](https://www.kejisen.com/pt/article/113141201.html)         
-![Matplotlib](https://matplotlib.org/stable/contents.html)
-![Pandas.pydata.org - json_normalize](https://pandas.pydata.org/pandas-docs/version/0.21/generated/pandas.io.json.json_normalize.html)         
-![Seaborn Documentation](https://seaborn.pydata.org/)
-![Storytelling with Data](https://www.storytellingwithdata.com/books)          
-![Tutorial flatten nested json in pandas](https://www.kaggle.com/jboysen/quick-tutorial-flatten-nested-json-in-pandas)         
+[Alura | Formação Python para Data Science](https://www.alura.com.br/formacao-python-data-science)     
+[A Practical Guide for Data Analysis with Pandas](https://towardsdatascience.com/a-practical-guide-for-data-analysis-with-pandas-e24e467195a9)      
+[Converting nested json structures to pandas dataframes](https://medium.com/swlh/converting-nested-json-structures-to-pandas-dataframes-e8106c59976e)       
+[Geopandas](https://geopandas.org/)
+[Insightlab](https://insightlab.ufc.br/6-truques-do-pandas-para-impulsionar-sua-analise-de-dados/)           
+[Kejisen - Tech Forest](https://www.kejisen.com/pt/article/113141201.html)         
+[Matplotlib](https://matplotlib.org/stable/contents.html)
+[Pandas.pydata.org - json_normalize](https://pandas.pydata.org/pandas-docs/version/0.21/generated/pandas.io.json.json_normalize.html)         
+[Seaborn Documentation](https://seaborn.pydata.org/)         
+[Storytelling with Data](https://www.storytellingwithdata.com/books)               
+[Tutorial flatten nested json in pandas](https://www.kaggle.com/jboysen/quick-tutorial-flatten-nested-json-in-pandas)         
 
 
 
