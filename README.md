@@ -55,7 +55,7 @@ extrair informações úteis. O notebook do maps está em anexo no reporitório 
 
 ---
 
-![Dashboard Instagram]
+![Dashboard Instagram](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-Instagram.png)
 
 ---
 
