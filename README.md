@@ -43,23 +43,27 @@ extrair informações úteis. O notebook do maps está em anexo no reporitório 
 
 * Para acessar os painéis com maior detalhamento e interatividade acesse o meu perfil no [Tableau Public](https://public.tableau.com/app/profile/michelle.lira) e      o [case](https://public.tableau.com/views/case_iFood/data_reporting?:language=en-US&:display_count=n&:origin=viz_share_link).
 
-![](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-1.png)
+![A Mãe do Ben entre dados, beats e bytes](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-1.png)
 
 ---
 
-![](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-Spotify(1).png)
+![Dashboard Spotify](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-Spotify.png)
 
 ---
 
-![](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-Instagram.png)
+![Dashboard iFood](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-Ifood.png)
 
 ---
 
-![](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-Uber(1).png)
+![Dashboard Instagram](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-Instagram.png)
 
 ---
 
-![](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-Youtube(1).png)
+![Dashboard Uber](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-Uber.png)
+
+---
+
+![Dashboard Youtube](https://github.com/michelle-lira/data-reporting-iFood/blob/main/dashboards/Dash-Youtube.png)
 
 ---
 
