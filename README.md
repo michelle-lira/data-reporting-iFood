@@ -10,7 +10,7 @@ O desafio foi montar um case através de uma experiência Data Driven com os meu
 
 > Scrum e Kanban      
 > Jupyter Notebook       
-> Python (Pandas, Numpy, Seaborn, Wordcloub, além dos módulos json e glob)       
+> Python (Descartes, Geopandas, Geopy, Pill, Pandas, Numpy, Seaborn, Wordcloub, além dos módulos json e glob)       
 > Tableau         
 
 ---
